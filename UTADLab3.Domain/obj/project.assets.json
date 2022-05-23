@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\W10\\Source\\Repos\\NewRepo\\UTADLab3.Domain\\UTADLab3.Domain.csproj",
-      "projectName": "UTADLab3.Domain",
-      "projectPath": "C:\\Users\\W10\\Source\\Repos\\NewRepo\\UTADLab3.Domain\\UTADLab3.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\W10\\source\\repos\\NewRepo\\UtadLab3.Domain\\UtadLab3.Domain.csproj",
+      "projectName": "UtadLab3.Domain",
+      "projectPath": "C:\\Users\\W10\\source\\repos\\NewRepo\\UtadLab3.Domain\\UtadLab3.Domain.csproj",
       "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\W10\\Source\\Repos\\NewRepo\\UTADLab3.Domain\\obj\\",
+      "outputPath": "C:\\Users\\W10\\source\\repos\\NewRepo\\UtadLab3.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
